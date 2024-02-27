@@ -1,0 +1,1 @@
+import "./firestore-rules.js";

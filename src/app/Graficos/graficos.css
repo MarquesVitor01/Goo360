@@ -1,0 +1,13 @@
+.doug{
+    height: 400px; 
+    display: flex;
+    justify-content: center;
+
+}
+.valores{
+    padding: 15px;
+    justify-content:space-around;
+    display: flex;
+    font-size: 15px;
+}
+

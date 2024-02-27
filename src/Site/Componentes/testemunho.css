@@ -1,0 +1,34 @@
+
+.testemunho {
+    padding: 80px 0; /* Espaçamento interno superior e inferior */
+    background: linear-gradient(to right,#014FBB, #5e93dd );
+  }
+  
+  .carousel-item {
+    text-align: center; /* Centraliza o conteúdo dentro do item do carousel */
+    padding: 20px;
+  }
+  
+  .carousel-item h2 {
+    color: #333; /* Cor do texto do título do testemunho */
+    font-size: 24px;
+    margin-bottom: 20px;
+  } 
+  
+  .carousel-item img {
+    border-radius: 10px; /* Borda arredondada para as imagens */
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 5%; /* Largura dos controles de navegação */
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    border-radius: 50%; /* Borda arredondada para o ícone */
+    padding: 10px; /* Espaçamento interno do ícone */
+  }
+  

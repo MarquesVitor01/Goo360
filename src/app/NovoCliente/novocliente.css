@@ -1,0 +1,227 @@
+body {
+    overflow-x: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo-2 {
+    background-color: #ffff;
+    width: 1150px;
+    margin-top: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.salvar {
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+    margin-bottom: 5px;
+}
+
+.btn-acao {
+    margin: 20px 20px 0px 20px;
+    min-width: 100px;
+}
+
+.btn-cli {
+    margin-left: 5px;
+}
+
+
+.logo-street {
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+}
+
+.logo-street img {
+    height: 90px;
+}
+
+.data-venc2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    font-size: large;
+}
+
+.data-venc2 label {
+    margin-top: 10px;
+}
+
+.checks {
+    margin-top: -16px;
+}
+
+.cima,
+.baixo {
+    justify-content: center;
+    font-size: 14px;
+    border: 1px solid black;
+    padding: 3px;
+    text-align: center;
+}
+
+.cc {
+    margin: 5px 0 5px 0;
+    width: 1120px;
+
+}
+
+.aa {
+    justify-content: center;
+    font-size: 12px;
+    border: 1px solid black;
+    padding: 3px;
+    text-align: center;
+    width: 30%;
+}
+
+.bb {
+    justify-content: center;
+    font-size: 12px;
+    border: 1px solid black;
+    padding: 3px;
+    text-align: center;
+    width: 20%;
+}
+
+.caixa {
+    border: 1px solid black;
+    font-size: small;
+}
+
+.linha1 {
+    height: 20px;
+    background-color: #ffff;
+    font-size: 16px;
+    padding-top: 2px;
+    color: black;
+    text-align: center;
+    border: black 1px solid;
+}
+
+.linha1 h3 {
+    font-size: 15px;
+}
+
+.assinante {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.assinante h3 {
+    font-size: 12px;
+}
+
+.escrever {
+    width: 100%;
+}
+
+.escrever hr {
+    color: black;
+    height: 1px;
+}
+
+.linha2 {
+    height: 24px;
+    background-color: rgb(87, 87, 207);
+    font-size: 14px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.linha2 h3 {
+    font-size: 14px;
+}
+
+.caixa2 {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    font-size: small;
+    padding: 0 5px 5px 5px;
+}
+
+.caixa2 input {
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: -9px;
+    margin-bottom: -2px;
+    height: 35px;
+}
+
+.atualizacao {
+    padding-top: 7px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.condicoes {
+    border: 1px solid black;
+    height: 20px;
+
+}
+
+.condicoes h3 {
+    font-size: 15px !important;
+    text-align: center;
+}
+
+.regras {
+    background-color: rgb(87, 87, 207);
+    height: 18px;
+    color: #ffff;
+
+}
+
+.regras h2 {
+    font-size: 15px;
+    text-align: center;
+    padding-top: 1px;
+}
+
+.texto {
+    text-align: justify;
+    padding: 3px;
+    border: black 1px solid;
+}
+
+.texto p {
+    font-size: 15px !important;
+}
+
+
+.escrever2 {
+    width: 100%;
+    border: 1px solid black;
+}
+
+.escrever2 hr {
+    color: black;
+    height: 1px;
+}
+
+.escrever2 h3 {
+    text-align: center;
+    font-size: 10px;
+}
+
+.linha3 {
+    height: 25px;
+    background-color: rgb(87, 87, 207);
+    font-size: 15px;
+    padding-top: 5px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.linha3 h3 {
+    font-size: 15px;
+}
+
+.inf h3 {
+    font-size: 12px;
+    text-align: center;
+}

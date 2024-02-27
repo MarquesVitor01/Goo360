@@ -1,0 +1,48 @@
+.icone-acao1{
+  margin-right: 15px;
+}
+.icone-acao{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.red{
+  color: rgb(151, 10, 10);
+}
+.col-acao{
+  width: 80px;
+}
+.icon-u{
+  font-size: 20px;
+}
+.icon-pho{
+  font-size: 20px;
+}
+
+.col-acao{
+  font-size: 30px;
+}
+.icon-info{
+  font-size: 20px;
+}
+.icon-calendar{
+  font-size: 20px;
+}
+.icon-clip{
+  font-size: 20px;
+}
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+.table th {
+  padding: 10px;
+  font-weight: bold;
+}
+.date{
+  border-radius: 40px;
+}
+.info-extra{
+  display: flex;
+  flex-direction: column;
+}

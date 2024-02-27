@@ -1,0 +1,24 @@
+.features {
+    height: 250px;
+    background-color: #F7F7F7;
+    box-shadow: 0 -4px 10px #F7F7F7;
+  }
+
+  .icons-fe{
+    align-items: center;
+    padding-top: 40px;
+    text-align: center;
+  }
+
+  .icon i{
+    font-size: 50px;
+    color: #FF2F31;
+  }
+  .agi{
+    padding-top: 50px;
+    color: black;
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }

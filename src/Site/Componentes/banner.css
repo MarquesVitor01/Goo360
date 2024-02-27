@@ -1,0 +1,38 @@
+.street{
+    height: 400px;
+}
+
+.banner{
+    background-image: url(../../../public/img/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.goo{
+    margin-top: 90px;
+    align-items: center;
+    justify-content: center;
+}
+
+.goo h1{
+    text-align: center;
+}
+
+.goo a{
+    margin-left: 35px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    border-radius: 40px;
+}
+
+.entrar{
+    height: 50px;
+    width: 110px;
+    margin-top: 80px;
+    color: #014FBB;
+    border-radius: 40px;
+}

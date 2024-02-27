@@ -1,0 +1,65 @@
+.bar{  
+  padding: 5px;
+}
+.nav-1 b{
+  color: red;
+}
+.qtdClientes{
+  margin-left: 50px;
+}
+.user-icon{
+  margin-right: 15px;
+}
+.icon-hora{
+  color: green;
+}
+.qtdClientes{
+  margin-right: 20px;
+}
+.navbar {
+  background-color: #ffff; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.navbar-brand img {
+  max-width: 100%;
+}
+.navbar-toggler-icon {
+  border: 2px solid #28a745; 
+}
+.navbar-nav {
+  align-items: center; 
+}
+.nav-link {
+  color: #333; 
+  font-weight: bold; 
+  margin-right: 10px; 
+}
+.nav-link:hover {
+  color: #28a745; 
+}
+.icon-hora,
+.fa-dollar-sign,
+.fa-google,
+.fa-tag,
+.fa-right-from-bracket {
+  margin-right: 5px; 
+}
+.exibicao {
+  align-items: center; 
+}
+.qtdClientes,
+.qtdClientesAss {
+  font-weight: bold; 
+  margin-right: 20px; 
+}
+.bar {
+  color: #ccc; 
+  font-weight: bold; 
+}
+.text-danger {
+  color: #dc3545; 
+}
+
+body{
+  font-size: small;
+} 

@@ -1,0 +1,73 @@
+.form-container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://super.abril.com.br/wp-content/uploads/2019/02/redes_sociais_site.png);
+    background-repeat: repeat;
+    background-size: cover;
+  }
+  
+  /* Estilo do Formulário */
+  .formulari {
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.9); /* Cor de fundo do formulário */
+    border-radius: 10px; /* Borda arredondada */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.8); /* Sombra suave */
+  }
+  
+  /* Estilo do Ícone */
+  .icon {
+    border-radius: 50%; /* Borda arredondada para a imagem do ícone */
+  }
+  
+  /* Estilo do Botão de Login */
+  .btn-primary {
+    margin-top: 0px;
+    background-color: #014FBB; /* Cor do botão */
+    border: none;
+    transition: background-color 0.3s ease;
+    color: #ffffff;
+  }
+  
+  .btn-primary:hover {
+    background-color: rgb(39, 39, 82); /* Cor do botão ao passar o mouse */
+  }
+  
+  /* Estilo do Alerta de Erro */
+  .alert-danger {
+    background-color: #f8d7da; /* Cor de fundo do alerta de erro */
+    color: #721c24; /* Cor do texto do alerta de erro */
+    border: 1px solid #f5c6cb; /* Borda do alerta de erro */
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Estilo do Checkbox */
+  .form-check-input:checked {
+    background-color: #165005; /* Cor de fundo do checkbox quando marcado */
+  }
+  
+  .form-check-input:focus {
+    outline-color: #165005; /* Cor do contorno do checkbox ao ganhar foco */
+  }
+  
+  /* Estilo dos Links de Login */
+  .login-links a {
+    color: #165005; /* Cor dos links de login */
+    transition: color 0.3s ease;
+  }
+  
+  .login-links a:hover {
+    text-decoration: underline; /* Sublinhado ao passar o mouse sobre os links */
+    color: #144404; /* Cor dos links de login ao passar o mouse */
+  }
+  
+  /* Adicionando Espaço no Topo do Formulário */
+  .formulario1 {
+    padding-top: 15px;
+  }

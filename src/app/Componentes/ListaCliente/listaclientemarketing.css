@@ -1,0 +1,30 @@
+.icone-acao1{
+    margin-right: 15px;
+}
+.icone-acao{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.red{
+    color: rgb(151, 10, 10);   
+}
+.icone-verde {
+    color: green;
+}
+.col-acao{
+    width: 80px;
+}
+.xis{
+    margin-top: 5px;
+    position: absolute;
+}
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+.table th {
+    text-align: left;
+    padding: 10px;
+    font-weight: bold;
+}  

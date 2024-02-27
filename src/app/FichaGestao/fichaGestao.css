@@ -1,0 +1,33 @@
+.background9 {
+    background: linear-gradient(to right, #366894, #b44248);
+    height: 680px;
+    width: 100%;
+    display: flex; /* Adiciona display flex */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    flex-direction: column; /* Empilha os itens verticalmente */
+}
+
+.box {
+    border: 2px solid black;
+    background-color: #ffffffff;
+    justify-content: center;
+    align-items: center;
+    margin: auto; /* Centraliza a caixa dentro do flex container */
+    width: 50%; /* Define uma largura máxima para a caixa */
+    padding: 15px;
+}
+
+.title {
+    text-align: center;
+}
+
+.voltar {
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.caixa-cobrador{
+    padding: 5px;
+}
